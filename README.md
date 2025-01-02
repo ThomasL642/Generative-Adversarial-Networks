@@ -22,7 +22,7 @@ This projects contians 5 diffrent GANs:
 4. The Images with display in th bottom of the Program
 
 ## ❓ More Info
-Article(https://medium.com/analytics-vidhya/how-to-generated-anything-276fbf8c95e8)
+[Article](https://medium.com/analytics-vidhya/how-to-generated-anything-276fbf8c95e8)
 
 ## 👤 Author
 - Name: Thomas Lawrence
